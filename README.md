@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hacking 
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on sqlmap,metasploit,osnit 
-- 📫 How to reach me My IG Handle @umai.raa_
+
 
 
 
