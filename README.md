@@ -6,7 +6,6 @@
 
 
 
-Have a good day :')
 
 <!---
 100-1824/100-1824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
