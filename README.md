@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @100-1824
-- 👀 I’m interested in Hacking 
-- 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on sqlmap,metasploit,osnit 
+- Hi, I’m @100-1824
+- I’m a junior cybersecurity analyst
+- I’m currently learning Linux
+- I’m looking to collaborate on sqlmap,metasploit,osnit 
 
 
 
